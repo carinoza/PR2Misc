@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Export-Package: com.github.speech_recognition.speech_recognition_node;
+ version="0.1.0";uses:="org.ros.namespace,org.ros.node"
+Bundle-Version: 0.1.0
+Tool: Bnd-2.1.0.20130426-122213
+Bundle-Name: speech_recognition_node
+Bnd-LastModified: 1461599373000
+Created-By: 1.7.0_51 (Oracle Corporation)
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.github.rosjava.speech_recognition.node
+Import-Package: edu.cmu.sphinx.api,org.apache.commons.logging;version=
+ "[1.1,2)",org.ros.concurrent,org.ros.message,org.ros.namespace,org.ro
+ s.node,org.ros.node.topic,std_msgs;version="[0.5,1)"
+
