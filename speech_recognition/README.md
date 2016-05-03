@@ -20,3 +20,8 @@ To build the project, ROSJava must be installed.
 1. Install ROSJava by following the steps in their [site](http://wiki.ros.org/rosjava/Tutorials/hydro/Installation).
 2. Go to catkin_workspace where the package and project are located
 3. Run catkin_build as usual
+
+
+## More information
+
+To see more information and more detail on how to create a node with speech recognition, check the [RyCh documentation](https://rych.dcc.uchile.cl/doku.php?id=documentacion:pr2:speech-recon)
