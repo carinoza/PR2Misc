@@ -12,6 +12,7 @@ cd path/to/speech\_recognition\_node
 ./build/install/speech\_recognition\_node/bin/speech\_recognition\_node com.github.rosjava.speech\_recognition.speech\_recognition\_node.Talker
 ```
 
+The node will start listening to spoken words and then send the most probable word(s) listened (hypothesis) to the topic __sphinx_speech_recon__.  
 
 ## How to build
 
