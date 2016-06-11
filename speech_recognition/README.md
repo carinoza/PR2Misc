@@ -8,8 +8,8 @@ The speech\_recognition package is a [ROSJava](http://wiki.ros.org/rosjava) pack
 In the project directory, there is a executable file with which the node can be run. The command to run it is:
 
 ```
-cd path/to/speech\_recognition\_node
-./build/install/speech\_recognition\_node/bin/speech\_recognition\_node com.github.rosjava.speech\_recognition.speech\_recognition\_node.Talker
+cd speech_recognition/speech\_recognition\_node
+./build/install/speech\_recognition\_node/bin/speech\_recognition\_node com.github.speech\_recognition.speech\_recognition\_node.Talker
 ```
 
 The node will start listening to spoken words and then send the most probable word(s) listened (hypothesis) to the topic __sphinx_speech_recon__.  
