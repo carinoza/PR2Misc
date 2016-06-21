@@ -6,6 +6,8 @@ This folder contains nodes that run using MoveIt!
 
    This node listens to the topic __t2moveit\_cmd__ for commands (std\_msgs/String) and then sends them to the __MoveGroupCommandInterpreter__ who actually handles the messages. This node is a simil to the MoveIt! program _moveit\_commander\_cmdline.py_ with the difference being that topic2moveit.py opens a topic whilst moveit\_commander\_cmdline.py receives messages directly input in the command line. 
 
+   To use it on a PR2, first run `roslaunch pr2_moveit_config move_group.launch`.
+
    More information on how to use it can be found in the [RyCh documentation](https://rych.dcc.uchile.cl/doku.php?id=documentacion:pr2:moveit#usar_interprete_python). It works just as the interpreter but reading from its topic.
 
 
