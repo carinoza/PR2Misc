@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "kinematics_tutorial")
+set(kinematics_tutorial_MAINTAINER "pr2admin <pr2admin@todo.todo>")
+set(kinematics_tutorial_DEPRECATED "")
+set(kinematics_tutorial_VERSION "0.0.0")
+set(kinematics_tutorial_BUILD_DEPENDS "moveit_core" "roscpp" "moveit_ros_planning_interface")
+set(kinematics_tutorial_RUN_DEPENDS "moveit_ros_planning_interface" "moveit_core" "roscpp")
+set(kinematics_tutorial_BUILDTOOL_DEPENDS "catkin")

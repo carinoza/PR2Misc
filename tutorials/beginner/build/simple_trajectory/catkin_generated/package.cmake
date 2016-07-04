@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "simple_trajectory")
+set(simple_trajectory_MAINTAINER "pr2admin <pr2admin@todo.todo>")
+set(simple_trajectory_DEPRECATED "")
+set(simple_trajectory_VERSION "0.0.0")
+set(simple_trajectory_BUILD_DEPENDS "actionlib" "pr2_controllers_msgs" "roscpp")
+set(simple_trajectory_RUN_DEPENDS "actionlib" "pr2_controllers_msgs" "roscpp")
+set(simple_trajectory_BUILDTOOL_DEPENDS "catkin")

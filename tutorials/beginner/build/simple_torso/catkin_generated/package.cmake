@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "simple_torso")
+set(simple_torso_MAINTAINER "pr2admin <pr2admin@todo.todo>")
+set(simple_torso_DEPRECATED "")
+set(simple_torso_VERSION "0.0.0")
+set(simple_torso_BUILD_DEPENDS "actionlib" "pr2_controllers_msgs" "roscpp")
+set(simple_torso_RUN_DEPENDS "actionlib" "pr2_controllers_msgs" "roscpp")
+set(simple_torso_BUILDTOOL_DEPENDS "catkin")

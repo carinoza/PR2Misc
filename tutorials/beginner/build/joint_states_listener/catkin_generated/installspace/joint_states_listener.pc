@@ -1,0 +1,8 @@
+prefix=/home/pr2admin/desktop/tutorials/beginner/install
+
+Name: joint_states_listener
+Description: Description of joint_states_listener
+Version: 0.0.0
+Cflags: -I/home/pr2admin/desktop/tutorials/beginner/install/include
+Libs: -L/home/pr2admin/desktop/tutorials/beginner/install/lib 
+Requires: message_runtime rospy sensor_msgs

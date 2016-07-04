@@ -1,0 +1,2 @@
+kinematics_tutorial:move_group_beginner_tutorial
+-DCATKIN_DEVEL_PREFIX=/home/pr2admin/desktop/tutorials/moveit/devel -DCMAKE_INSTALL_PREFIX=/home/pr2admin/desktop/tutorials/moveit/install

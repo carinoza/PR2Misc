@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "simple_head")
+set(simple_head_MAINTAINER "pr2admin <pr2admin@todo.todo>")
+set(simple_head_DEPRECATED "")
+set(simple_head_VERSION "0.0.0")
+set(simple_head_BUILD_DEPENDS "actionlib" "pr2_controllers_msgs" "roscpp")
+set(simple_head_RUN_DEPENDS "actionlib" "pr2_controllers_msgs" "roscpp")
+set(simple_head_BUILDTOOL_DEPENDS "catkin")

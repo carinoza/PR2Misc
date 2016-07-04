@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "joint_states_listener")
+set(joint_states_listener_MAINTAINER "pr2admin <pr2admin@todo.todo>")
+set(joint_states_listener_DEPRECATED "")
+set(joint_states_listener_VERSION "0.0.0")
+set(joint_states_listener_BUILD_DEPENDS "rospy" "sensor_msgs" "message_generation")
+set(joint_states_listener_RUN_DEPENDS "message_runtime" "rospy" "sensor_msgs")
+set(joint_states_listener_BUILDTOOL_DEPENDS "catkin")

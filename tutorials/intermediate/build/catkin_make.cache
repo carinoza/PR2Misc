@@ -1,0 +1,2 @@
+ik_trajectory_tutorial
+-DCATKIN_DEVEL_PREFIX=/home/pr2admin/desktop/tutorials/intermediate/devel -DCMAKE_INSTALL_PREFIX=/home/pr2admin/desktop/tutorials/intermediate/install

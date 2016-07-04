@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "drive_base_odometry_tutorial")
+set(drive_base_odometry_tutorial_MAINTAINER "pr2admin <pr2admin@todo.todo>")
+set(drive_base_odometry_tutorial_DEPRECATED "")
+set(drive_base_odometry_tutorial_VERSION "0.0.0")
+set(drive_base_odometry_tutorial_BUILD_DEPENDS "geometry_msgs" "roscpp" "tf")
+set(drive_base_odometry_tutorial_RUN_DEPENDS "geometry_msgs" "roscpp" "tf")
+set(drive_base_odometry_tutorial_BUILDTOOL_DEPENDS "catkin")

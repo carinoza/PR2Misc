@@ -1,0 +1,8 @@
+prefix=/home/pr2admin/desktop/tutorials/moveit/install
+
+Name: move_group_beginner_tutorial
+Description: Description of move_group_beginner_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pr2admin/desktop/tutorials/moveit/install/lib 
+Requires: 

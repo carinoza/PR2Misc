@@ -1,0 +1,8 @@
+prefix=/home/pr2admin/desktop/tutorials/beginner/install
+
+Name: drive_base_tutorial
+Description: Description of drive_base_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pr2admin/desktop/tutorials/beginner/install/lib 
+Requires: 

@@ -1,0 +1,2 @@
+drive_base_odometry_tutorial:drive_base_tutorial:joint_states_listener:simple_gripper:simple_head:simple_torso:simple_trajectory
+-DCATKIN_DEVEL_PREFIX=/home/pr2admin/desktop/tutorials/beginner/devel -DCMAKE_INSTALL_PREFIX=/home/pr2admin/desktop/tutorials/beginner/install

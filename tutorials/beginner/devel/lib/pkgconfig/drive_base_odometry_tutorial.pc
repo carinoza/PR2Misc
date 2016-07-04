@@ -1,0 +1,8 @@
+prefix=/home/pr2admin/desktop/tutorials/beginner/devel
+
+Name: drive_base_odometry_tutorial
+Description: Description of drive_base_odometry_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pr2admin/desktop/tutorials/beginner/devel/lib 
+Requires: 

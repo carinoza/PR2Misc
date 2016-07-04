@@ -1,0 +1,6 @@
+/home/pr2admin/desktop/tutorials/intermediate/build/gtest/CMakeFiles/gtest_main.dir
+/home/pr2admin/desktop/tutorials/intermediate/build/CMakeFiles/doxygen.dir
+/home/pr2admin/desktop/tutorials/intermediate/build/gtest/CMakeFiles/gtest.dir
+/home/pr2admin/desktop/tutorials/intermediate/build/CMakeFiles/clean_test_results.dir
+/home/pr2admin/desktop/tutorials/intermediate/build/CMakeFiles/run_tests.dir
+/home/pr2admin/desktop/tutorials/intermediate/build/CMakeFiles/tests.dir

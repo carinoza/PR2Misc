@@ -1,0 +1,8 @@
+prefix=/home/pr2admin/desktop/tutorials/beginner/install
+
+Name: simple_gripper
+Description: Description of simple_gripper
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pr2admin/desktop/tutorials/beginner/install/lib 
+Requires: 
