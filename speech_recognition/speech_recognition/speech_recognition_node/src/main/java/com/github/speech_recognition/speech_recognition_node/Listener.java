@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2014 rych.
+ * Copyright (C) 2014 Tomas.
  * 
  * Licensed under the Apache License, Version 2.0 (the "License"); you may not
  * use this file except in compliance with the License. You may obtain a copy of
@@ -14,7 +14,7 @@
  * the License.
  */
 
-package com.github.speech_recognition.speech_recognition_node;
+package com.github.rosjava.speech_recognition.speech_recognition_node;
 
 import org.apache.commons.logging.Log;
 import org.ros.message.MessageListener;
