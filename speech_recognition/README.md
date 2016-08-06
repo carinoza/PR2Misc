@@ -9,7 +9,7 @@ In the project directory, there is a executable file with which the node can be 
 
 ```
 cd speech_recognition/speech\_recognition\_node
-./build/install/speech\_recognition\_node/bin/speech\_recognition\_node com.github.speech\_recognition.speech\_recognition\_node.Talker
+./build/install/speech\_recognition\_node/bin/speech\_recognition\_node com.github.rosjava.speech_recognition.speech_recognition_node.Talker
 ```
 
 The node will start listening to spoken words and then send the most probable word(s) listened (hypothesis) to the topic __sphinx_speech_recon__.  
